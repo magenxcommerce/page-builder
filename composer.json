@@ -1,0 +1,24 @@
+{
+    "name": "magenxcommerce/page-builder",
+    "description": "Page Builder metapackage",
+    "keywords": [],
+    "homepage": "",
+    "version": "1.7.0",
+    "version_normalized": "1.7.0.0",
+    "license": [],
+    "authors": [],
+    "type": "metapackage",
+    "require": {
+        "magenxcommerce/module-page-builder": "2.2.1",
+        "magenxcommerce/module-page-builder-analytics": "1.6.1",
+        "magenxcommerce/module-cms-page-builder-analytics": "1.6.1",
+        "magenxcommerce/module-page-builder-admin-analytics": "1.1.1",
+        "magenxcommerce/module-catalog-page-builder-analytics": "1.6.1",
+        "magenxcommerce/module-aws-s3-page-builder": "1.0.1"
+    },
+    "uid": "ad9d69b0e14fe68de004e7abe3c72e9c",
+    "replace": {
+        "magento/page-builder": "*"
+    },
+    "suggest": {}
+}
